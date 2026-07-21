@@ -1,0 +1,1 @@
+streamlit run Vehicle_Reg.py
